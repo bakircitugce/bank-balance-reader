@@ -1,1 +1,6 @@
-
+streamlit
+pdfplumber
+extract-msg
+beautifulsoup4
+pandas
+xlrd
